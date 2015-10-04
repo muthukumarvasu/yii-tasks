@@ -1,0 +1,1 @@
+Simple tasks manager, for Yii Framework based applications.
